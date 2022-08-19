@@ -12,12 +12,12 @@ export default function Hero() {
               <h1 className="flex flex-wrap items-center bg-gradient-to-r from-purple-400 to-pink-600 bg-clip-text pb-1.5 text-3xl font-semibold leading-tight text-transparent">
                 <span className="mr-2">Hello,</span>
                 <span className="font-extrabold">
-                  I'm a Professional Digital Marketer and Social Media marketing
+                  I&apos;m a Professional Digital Marketer and Social Media marketing
                   Expert
                 </span>
               </h1>
               <h2 className="text-2xl font-semibold uppercase text-gray-700 dark:text-white lg:text-3xl">
-                I'm a Digital Markter
+                I&apos;m a Digital Markter
               </h2>
               <p className="mt-2 text-gray-600 dark:text-gray-400">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro
